@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="usename">User Name</string>
+    <string name="password">Password</string>
+    <string name="lbtn">Login</string>
+    <string name="acc">Do you havent account</string>
+    <string name="Sigunpbtn">signUp</string>
+    <string name="Sicial">Social</string>
+    <string name="heqading">Are you Hungry</string>
+    <string name="Subheading">Order your Foods</string>
+    <string name="subhead1">Different kind of foods here</string>
+    <string name="Click">Click here</string>
+    <string name="H2">Foods</string>
+    <string name="app_name1">FooDLanD</string>
+    <string name="location">Location</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="FullName">Full Name</string>
+    <string name="price">Price</string>
+    <string name="Rupees">Rs.800</string>
+    <string name="Review">Review</string>
+    <string name="Pizza">Pizza</string>
+    <string name="description">Pizza is very tasty and very cheesy.Fast delivery.It is very hot."</string>
+    <string name="Addtocard">Add to card</string>
+    <string name="Burger">Burger</string>
+    <string name="Noodles">Noodles</string>
+    <string name="Samosa">Samosa</string>
+    <string name="Cake">Cake</string>
+    <string name="FrenchFries">FrenchFries</string>
+    <string name="Apple">Apple Juice</string>
+    <string name="Orange">Orange Juice</string>
+    <string name="Milkshake">Milkshake</string>
+    <string name="name">K.Ragulan</string>
+    <string name="nameh">Name</string>
+    <string name="mail">ragulniru02@gamil.com</string>
+    <string name="addressmail">Email_Address</string>
+    <string name="num">Phone Number</string>
+    <string name="pnum">076581644</string>
+    <string name="add">Address</string>
+    <string name="add1">Pillathambai,puloly,South,puloly</string>
+    <string name="editbtn">Edit profile</string>
+
+</resources>
